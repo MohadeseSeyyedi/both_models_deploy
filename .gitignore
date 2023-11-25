@@ -1,12 +1,3 @@
-models/*.*
-models/pretrained/models/absa/*.*
-models/pretrained/tokenizers/absa/*.*
-models/pretrained/models/sentiment/*.*
-models/pretrained/tokenizers/sentiment/*.*
-models/pretrained/tokenizers/parsbert/*.*
-models/pretrained/models/parsbert/*.*
-models/pretrained/configs/parsbert/*.*
-models/state_dicts/parsbert/*.*
 models-local/*
 replicate-folders.py
 parsbert_app.py
